@@ -16,12 +16,13 @@
 </head>
 <body>
   
+  
   <!-- UserLogin Form -->
   <div class="container">
     <input type="checkbox" id="check">
     <input type="checkbox" id="checks">
     <div class="UserLogin form">
-      <header>User Login</header>
+      <header>User Info</header>
       <form action="#">
         <input type="text" placeholder="Enter your username" required>
         <input type="password" placeholder="Enter your password" required>
